@@ -1,6 +1,7 @@
+
+![ Frontend developer from Narayongonj,Bangladesh](https://i.ibb.co/f44scvK/github.jpg)
 ### Hi there 👋, I am Arifa
 ####  Frontend developer from Narayongonj,Bangladesh
-![ Frontend developer from Narayongonj,Bangladesh](https://i.ibb.co/sWP18QD/banner.jpg)
 
 about me 
 
