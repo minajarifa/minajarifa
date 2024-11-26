@@ -1,6 +1,6 @@
 
 ![ Frontend developer from Narayongonj,Bangladesh](https://i.ibb.co/f44scvK/github.jpg)
-# 👋 Hi there, I'm Arifa Islam Asma!
+# 👋 Hi there, I'm Arifa Islam!
 
 🌟 **Frontend Developer** | 🌍 **Junior MERN Stack Developer**
 ####  Frontend developer from Narayongonj,Bangladesh
