@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Arifa Islam!
 
 🌟 **Frontend Developer** | 🌍 **Junior MERN Stack Developer**
-####  Frontend developer from Narayongonj,Bangladesh
+####  Frontend developer from Bangladesh
 ---
 
 ### 🛠 **Skills**
