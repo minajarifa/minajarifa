@@ -38,14 +38,19 @@
 
 - 🔭 I’m currently working on this page.
 
+
+## 📊 current Stats  
+
+
+### 📈 Overall Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minajarifa&show_icons=true&theme=radical)
 
 
-
+### 📚 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minajarifa&theme=radical)
 
 
 
-
+### 🔥 Current Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=minajarifa&theme=radical)
 
