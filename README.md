@@ -34,7 +34,7 @@
 - 💌 Email: [your-email@example.com](mailto:your-email@example.com)
 - 🌐 Portfolio: [Your Portfolio Link](#)
 - 🐦 Twitter: [Your Twitter Handle](#)
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)
+- 🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/arifa-islam-97a7b528b)](#)
 
 - 🔭 I’m currently working on this page.
 
