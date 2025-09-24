@@ -31,7 +31,7 @@
 ---
 
 ### 📬 **Connect With Me**
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💌 Email: [your-email@example.com](arifa05islam@gmail.com)
 - 🌐 Portfolio: [Your Portfolio Link](#)
 - 🐦 Twitter: [Your Twitter Handle](#)
 - 🔗 LinkedIn: [[Arifa Islam](https://www.linkedin.com/in/arifa-islam-97a7b528b)]
